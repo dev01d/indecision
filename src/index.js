@@ -7,7 +7,7 @@ import './styles/styles.scss'
 
 if (process.env.NODE_ENV === 'production') {
   Sentry.init({
-    dsn: 'https://15794c2bda654d07ac2dcf24a49f04e9@sentry.dev01d.com/4',
+    dsn: 'https://143f631e1bdd4bc78207492053110f88@sentry.dev01d.com/5'
   })
 }
 
