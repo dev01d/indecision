@@ -9,12 +9,12 @@
     "build": "parcel build public/index.html"
   },
   "dependencies": {
-    "@sentry/browser": "^4.4.2",
-    "normalize.css": "7.0.0",
+    "@sentry/browser": "^5.5.0",
+    "normalize.css": "8.0.1",
     "react": "^16.0.0",
     "react-dom": "^16.4.1",
-    "react-modal": "3.8.1",
-    "validator": "^10.0.0"
+    "react-modal": "3.9.1",
+    "validator": "^11.1.0"
   },
   "devDependencies": {
     "babel-core": "^6.26.3",
