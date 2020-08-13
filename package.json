@@ -9,7 +9,7 @@
     "build": "parcel build public/index.html"
   },
   "dependencies": {
-    "@sentry/browser": "^5.20.1",
+    "@sentry/browser": "^5.21.1",
     "normalize.css": "8.0.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
